@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## License
+
+Copyright (c) 2026 Chrystian Amaral. All rights reserved. See [LICENSE](LICENSE).
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
